@@ -1,5 +1,11 @@
-### Hi there 👋, welcome to my planet! 
+### Hi there 👋 Welcome to my planet! 🪐
 
+My name is Guilherme Freitas, I am an Statistics student at University of São Paulo.
+
+Always learning something new, and improving on what I know.
+
+gv.freitas2003@gmail.com
+in/guilherme-freitas-b62a26246
 <!--
 **GvFreitas1/GvFreitas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
