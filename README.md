@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my planet! 🪐
+### Hi there 👋! Welcome to my planet! 🪐
 
 My name is Guilherme Freitas, I am an Statistics student at University of São Paulo.
 
