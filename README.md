@@ -5,10 +5,7 @@ My name is Guilherme Freitas, I am an Statistics student at University of São P
 Always learning something new, and improving on what I know.
 
 ##
-<div > 
-  <a href = "mailto:gv.freitas2003@usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-freitas-b62a26246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div><br/>
+
 
 <div>
   <a href="https://github.com/GvFreitas1">
@@ -17,13 +14,21 @@ Always learning something new, and improving on what I know.
   </a>
 </div>
 
+
 <div style="display: inline_block"><br>
   <a href="https://github.com/GvFreitas1">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   </a>
 </div>   
-    
+
+
+<div > 
+  <a href = "mailto:gv.freitas2003@usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-freitas-b62a26246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div><br/>
+
+
 <!--
 **GvFreitas1/GvFreitas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
