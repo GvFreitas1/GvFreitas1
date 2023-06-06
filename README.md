@@ -20,7 +20,7 @@ Always learning something new, and improving on what I know.
 <div style="display: inline_block"><br>
   <a href="https://github.com/GvFreitas1">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+  <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   </a>
 </div>   
     
