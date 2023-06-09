@@ -1,5 +1,5 @@
 ## Hi there 👋! Welcome to my planet! 🪐
----
+
 My name is Guilherme Freitas, I am an Statistics student at University of São Paulo.
 
 Always learning something new, and improving on what I know.
