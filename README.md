@@ -1,16 +1,16 @@
-### Hi there 👋! Welcome to my planet! 🪐
-
+## Hi there 👋! Welcome to my planet! 🪐
+---
 My name is Guilherme Freitas, I am an Statistics student at University of São Paulo.
 
 Always learning something new, and improving on what I know.
 
-##
 
+---
 
 <div>
   <a href="https://github.com/GvFreitas1">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=GvFreitas1&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GvFreitas1&layout=compact&langs_count=7"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GvFreitas1&layout=compact&langs_count=7"/>
   </a>
 </div>
 
@@ -19,10 +19,13 @@ Always learning something new, and improving on what I know.
   <a href="https://github.com/GvFreitas1">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
   </a>
-</div>   
+</div>  
 
 ##
+---
 
 <div > 
   <a href = "mailto:gv.freitas2003@usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
