@@ -4,7 +4,7 @@ My name is Guilherme Freitas, I am an Statistics student at University of São P
 
 Always learning something new, and improving on what I know.
 
-##
+---
 
 <div>
   <a href="https://github.com/GvFreitas1">
@@ -12,7 +12,6 @@ Always learning something new, and improving on what I know.
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GvFreitas1&layout=compact&langs_count=7"/>
   </a>
 </div>
-
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/GvFreitas1">
@@ -22,7 +21,7 @@ Always learning something new, and improving on what I know.
   </a>
 </div>  
 
-##
+---
 
 <div > 
   <a href = "mailto:gv.freitas2003@usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
