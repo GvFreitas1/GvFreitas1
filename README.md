@@ -31,7 +31,7 @@ Always learning something new, and improving on what I know.
 ---
 <div align= center>
  
-![snake gif](https://github.com/GvFreitas1/GvFreitas1/blob/output/snake_gif_github.svg)
+![snake gif](https://github.com/GvFreitas1/GvFreitas1/blob/main/snake_gif_github.svg)
 
 </div>
 
