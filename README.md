@@ -44,13 +44,13 @@ Always learning something new, and improving on what I know.
 
 </div>
 
+<!--
 <style>
       img {
         vertical-align: middle;
       }
     </style>
 
-<!--
 **GvFreitas1/GvFreitas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
