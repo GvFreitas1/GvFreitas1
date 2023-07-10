@@ -28,7 +28,7 @@ Always learning something new, and improving on what I know.
 
 <div align=center>
 
-# My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="45">
+# My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="42">
 
 <div>
   <a href="https://github.com/GvFreitas1">
