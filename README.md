@@ -1,5 +1,6 @@
+<!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6272a4&height=100&section=header"/><br>
-
+-->
 # Hi there 👋! Welcome to my galaxy! 🌌
 
 My name is Guilherme Freitas, I am an Statistics student at University of São Paulo.
@@ -40,9 +41,9 @@ Always learning something new, and improving on what I know.
 
 </div>
 
+<!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6272a4&height=100&section=footer"/>
 
-<!--
 <style>
       img {
         vertical-align: middle;
