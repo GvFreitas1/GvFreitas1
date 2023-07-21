@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6272a4&height=110&section=header"/>
+
 # Hi there 👋! Welcome to my galaxy! 🌌
 
 My name is Guilherme Freitas, I am an Statistics student at University of São Paulo.
@@ -22,7 +24,6 @@ Always learning something new, and improving on what I know.
  <img alt="Markdown" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" />
 </div><br>
 
-
 <div align=center>
 
 # My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="42">
@@ -30,7 +31,7 @@ Always learning something new, and improving on what I know.
 <a href="https://github.com/GvFreitas1">
 <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=GvFreitas1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GvFreitas1&layout=compact&langs_count=7&theme=tokyonight"/>
-</a>
+</a></div>
 
 
 <div align= center>
@@ -39,6 +40,7 @@ Always learning something new, and improving on what I know.
 
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6272a4&height=110&section=footer"/>
 <!--
 <style>
       img {
