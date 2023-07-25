@@ -12,7 +12,7 @@ Always learning something new, and improving on what I know.
 
 <div align=center>
 
-# Languages & Tools <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdwejcxeGU0dmluZXc3cXRndms1eG8yZTlidXpmOHRpcHV1cHN5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="38">
+# Languages & Tools <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdwejcxeGU0dmluZXc3cXRndms1eG8yZTlidXpmOHRpcHV1cHN5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="38" style="vertical-align: middle">
 
 
 <div>
@@ -27,7 +27,7 @@ Always learning something new, and improving on what I know.
 
 <div align=center>
 
-# My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="42">
+# My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="42" style="vertical-align: middle">
 
 <a href="https://github.com/GvFreitas1">
 <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=GvFreitas1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
