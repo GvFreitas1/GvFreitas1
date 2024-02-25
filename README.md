@@ -5,8 +5,6 @@
 
 My name is Guilherme Freitas, I am an Statistics student at University of São Paulo.
 
-Always learning something new, and improving on what I know.
-
 <a href = "mailto:gv.freitas2003@usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/guilherme-freitas-b62a26246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
